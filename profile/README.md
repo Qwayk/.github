@@ -1,26 +1,13 @@
-# Org profile README template (for the org `.github` repo)
-
 Last updated: **2026-02-25**
-
-Put this in the GitHub org-owned repo named `.github` as:
-- `profile/README.md`
-
-Replace placeholders:
-- `Qwayk`
-- `https://github.com/Qwayk/start-here`
-- `https://qwayk.com/get-access/`
-- `https://qwayk.com/trust/`
-
----
 
 # Qwayk
 
 Safe-by-default API tools for AI agents (dry-run first, explicit apply for writes, receipts for verification).
 
 Start here:
-- Proof/demo: https://qwayk.com/trust/
+- Proof/demo: https://github.com/Qwayk/start-here/blob/main/PROOF.md
 - Public repo: https://github.com/Qwayk/start-here
-- Sponsor to get private members repo access: https://qwayk.com/get-access/
+- Sponsor to get private members repo access: https://github.com/sponsors/Qwayk
 
 What you get (members):
 - Private members repo (onboarding, releases, workflow packs)
@@ -28,4 +15,3 @@ What you get (members):
 
 What you don’t get:
 - No custom setup, no SLA, no credential handling
-
