@@ -9,6 +9,8 @@ Start here:
 - Public repo: https://github.com/Qwayk/start-here
 - Sponsor to get private members repo access: https://github.com/sponsors/Qwayk
 
+If the Sponsors page isn’t live yet, we’re likely in the approval/onboarding flow.
+
 What you get (members):
 - Private members repo (onboarding, releases, workflow packs)
 - Clear safety model (plan → apply → verify → receipt)
