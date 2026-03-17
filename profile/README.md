@@ -1,15 +1,20 @@
-Last updated: **2026-02-25**
+Last updated: **2026-03-17**
 
 # Qwayk
 
-I build safe-by-default API tools for AI agents.
+Qwayk builds safe-by-default API tools for AI agents.
 
-Basically: you get a plan first (dry-run), then you choose to apply, then we verify, and you get a receipt.
+If you have ever said “I want an agent to do this for me, but I do not want it to break anything”, this is for you.
+
+How it works:
+1) You see a plan first.
+2) Nothing changes until you explicitly apply.
+3) We verify and write a receipt so you can audit what happened.
 
 Start here:
 - Public repo: https://github.com/Qwayk/start-here
-- Proof/demo: https://github.com/Qwayk/start-here/blob/main/PROOF.md
-- Sponsors (membership): https://github.com/sponsors/Qwayk
+- Proof demo: https://github.com/Qwayk/start-here/blob/main/PROOF.md
+- Sponsors: https://github.com/sponsors/Qwayk
 
 Browse repos:
 - `https://github.com/Qwayk?tab=repositories`
