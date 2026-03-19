@@ -1,28 +1,41 @@
-Last updated: **2026-03-17**
+Last updated: **2026-03-19**
 
 # Qwayk
 
-Qwayk builds safe-by-default API tools for AI agents.
+Qwayk builds skills for AI agents that do real work through real APIs.
 
-If you have ever said “I want an agent to do this for me, but I do not want it to break anything”, this is for you.
+The simple idea is this:
+**skills tell the agent what to do, and Qwayk tools make sure it does the work safely.**
 
-How it works:
-1) You see a plan first.
-2) Nothing changes until you explicitly apply.
-3) We verify and write a receipt so you can audit what happened.
+That means:
+1) plan first
+2) approve before writes
+3) verify after changes
+4) keep a receipt
+
+This is for people who want agents to do useful work, not just chat.
+It is also for people who do **not** want unsafe "just trust the agent" automation.
+
+Works well with agent runtimes and coding tools that can run local commands, like Codex, Claude Code, Gemini CLI, and similar setups.
 
 Start here:
-- Public repo: https://github.com/Qwayk/start-here
-- Proof demo: https://github.com/Qwayk/start-here/blob/main/PROOF.md
-- Sponsors: https://github.com/sponsors/Qwayk
+- `https://github.com/Qwayk/start-here`
+- `https://github.com/Qwayk/start-here/blob/main/PROOF.md`
+- `https://github.com/Qwayk/start-here/blob/main/TOOLS.md`
 
-Browse repos:
-- `https://github.com/Qwayk?tab=repositories`
+Public proof repos:
+- `https://github.com/Qwayk/amazon-pa-api-tool`
+- `https://github.com/Qwayk/plausible-api-tool`
 
-If the Sponsors page isn’t live yet, we’re likely in the approval/onboarding flow.
+Support the project:
+- `https://github.com/sponsors/Qwayk`
 
-Members get:
-- private members repo access (onboarding + workflow packs + updates)
+What members get:
+- private repo access
+- new tools and updates first
+- workflow packs that help agents do real jobs safely
 
-What you don’t get:
-- no custom setup, no SLA, no credential handling
+What this is not:
+- not a hosted SaaS
+- not done-for-you setup
+- not a place to paste secrets into issues
